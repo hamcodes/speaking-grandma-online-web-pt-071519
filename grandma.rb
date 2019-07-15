@@ -2,10 +2,11 @@ def speak_to_grandma(phrase)
   phrase = "I love you grandma!"
   if phrase = phrase
   return "HUH?! SPEAK UP, SONNY!"
-  
+elsif phrase = phrase.upcase
+return "NO, NOT SINCE 1938!"
 end
 end
-
+end
 
 
 
