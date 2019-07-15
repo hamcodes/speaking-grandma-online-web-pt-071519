@@ -1,14 +1,7 @@
 def speak_to_grandma(phrase)
   phrase = "I LOVE YOU GRANDMA!"
-  
-  if phrase = "I love you grandma!"
-  return "HUH?! SPEAK UP, SONNY!"
+  "I LOVE YOU TOO PUMPKIN!"
 end
-elsif phrase = "I LOVE YOU GRANDMA!"
-return "NO, NOT SINCE 1938!"
-
-end
-
 
 
 
